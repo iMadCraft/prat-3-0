@@ -425,9 +425,9 @@ L["Editbox/Border color"] = "Border color"
 L["Editbox/Border texture"] = "Border texture"
 L["Editbox/Bottom"] = "Bottom"
 L["Editbox/Color border by channel"] = "Color border by channel"
-L["Editbox/currently_broken_alt_behavior"] = [=[Arrow key behaviour broken in current WoW client,
+L["Editbox/currently_broken_alt_behavior"] = [[Arrow key behaviour broken in current WoW client,
 
-Use ALT-UP and ALT-DOWN instead of just UP DOWN to access history]=]
+Use ALT-UP and ALT-DOWN instead of just UP DOWN to access history]]
 L["Editbox/Edge Size"] = "Edge Size"
 L["Editbox/Editbox"] = "Editbox"
 L["Editbox/Editbox options."] = "Editbox options."
@@ -598,9 +598,9 @@ L["Memory/command_header_name"] = "Commands"
 L["Memory/load_desc"] = "Load the chat frame/tabs from the last save"
 L["Memory/load_name"] = "Load Settings"
 L["Memory/module_desc"] = "Support saving the Blizzard chat settings to your profile so they can be synced across all your characters"
-L["Memory/module_info"] = [=[|cffff8888THIS MODULE IS EXPERIMENTAL|r
+L["Memory/module_info"] = [[|cffff8888THIS MODULE IS EXPERIMENTAL|r
 
- This module allows you to load/save all your chat settings and frame layout. These settings can be loaded on any of your characters]=]
+ This module allows you to load/save all your chat settings and frame layout. These settings can be loaded on any of your characters]]
 L["Memory/module_name"] = "Memory"
 L["Memory/msg_loadfailed"] = "Could not fully restore the chat settings"
 L["Memory/msg_nosettings"] = "No stored settings"
@@ -802,11 +802,11 @@ L["Search/err_notfound"] = "Not Found"
 L["Search/err_tooshort"] = "Search term is too short"
 L["Search/find_results"] = "Find Results:"
 L["Search/module_desc"] = "Adds the ability to search the chatframes."
-L["Search/module_info"] = [=[This module adds search boxes on the chat frames, and the /find commands to search the chat history
+L["Search/module_info"] = [[This module adds search boxes on the chat frames, and the /find commands to search the chat history
 
 Usage:
 
- /find <text>]=]
+ /find <text>]]
 L["Search/module_name"] = "Search"
 L["Search/unused_alpha"] = "Unused search box alpha"
 L["Search/used_alpha"] = "Used search box alpha"
@@ -874,8 +874,8 @@ L["Substitutions/A module to provide basic chat substitutions."] = "A module to 
 L["Substitutions/Are you sure - this will delete all user defined substitutions and reset defaults?"] = "Are you sure - this will delete all user defined substitutions and reset defaults?"
 L["Substitutions/Are you sure?"] = "Are you sure?"
 L["Substitutions/can't find substitution index for a substitution named '%s'"] = "can't find substitution index for a substitution named '%s'"
-L["Substitutions/current-prompt"] = [=[Current value: '%s'
-Click to paste into the chat.]=]
+L["Substitutions/current-prompt"] = [[Current value: '%s'
+Click to paste into the chat.]]
 L["Substitutions/defined %s: expands to => %s"] = "defined %s: expands to => %s"
 L["Substitutions/Delete all"] = "Delete all"
 L["Substitutions/Delete substitution"] = "Delete substitution"
