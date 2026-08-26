@@ -70,7 +70,7 @@ Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
 Libs\LibAlts-1.0\lib.xml
 
 locales\includes.xml
-fonts\includes.xml
+fonts\fonts.lua
 addon\includes.xml
 services\includes.xml
 modules\includes.xml
