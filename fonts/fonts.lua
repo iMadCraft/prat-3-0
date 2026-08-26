@@ -1,3 +1,4 @@
+Libs\LibStub\LibStub.lua
 local LSM = LibStub("LibSharedMedia-3.0")
 
 if not LSM then
